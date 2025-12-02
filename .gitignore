@@ -2,3 +2,7 @@
 # output/
 __pycache__/
 # report/graphics/
+
+
+.bash_history
+.python_history
